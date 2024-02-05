@@ -35,6 +35,10 @@
  ![SVN](https://img.shields.io/badge/subversion-%230db7ed.svg?style=for-the-badge&logo=subversion&logoColor=white)
  ![Bitbucket](https://img.shields.io/badge/bitbucket-%23007ACC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+ <!-- java: -->
+ <!-- android studio: -->
+ <!-- jetpack android: -->
+
  </section>
 
 ## 🌱 Aprendendo / Learning

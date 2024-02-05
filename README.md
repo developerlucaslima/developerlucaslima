@@ -42,6 +42,7 @@
 <section align='center'><br>
  
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c#-%23000000.svg?style=for-the-badge&logo=c3&logoColor=white)
 
 </section>
 

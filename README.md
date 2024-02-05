@@ -32,7 +32,7 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-postgresql-%238D6748?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![SVN](https://img.shields.io/badge/svn-%230db7ed.svg?style=for-the-badge&logo=svn&logoColor=white)
+ ![SVN](https://img.shields.io/badge/subversion-%230db7ed.svg?style=for-the-badge&logo=subversion&logoColor=white)
  ![Bitbucket](https://img.shields.io/badge/bitbucket-%23007ACC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
  </section>

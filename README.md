@@ -1,4 +1,5 @@
  <img align='center' src="https://media.licdn.com/dms/image/D4D16AQEGOmyEbFjP7g/profile-displaybackgroundimage-shrink_350_1400/0/1680060555802?e=1712793600&v=beta&t=iIogBeRqYcvPINlApadoo1rW3b0MQRZC4ij6LO62wS8" alt="Lucas Lima Background"/>
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=dracula"/>
 
 🇧🇷
 

@@ -1,6 +1,3 @@
- <img align='center' src="https://media.licdn.com/dms/image/D4D16AQEGOmyEbFjP7g/profile-displaybackgroundimage-shrink_350_1400/0/1680060555802?e=1712793600&v=beta&t=iIogBeRqYcvPINlApadoo1rW3b0MQRZC4ij6LO62wS8" alt="Lucas Lima Background"/>
-  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=dracula"/>
-
 🇧🇷
 
 - 🏙 Trabalhando como Desenvolvedor Web e Android Mobile na [Decklink](http://declink.com.br/).
@@ -55,6 +52,7 @@
 
 <section align='center'>
 <a href="https://github.com/developerlucaslima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developerlucaslima&theme=tokyonight&hide_border=true)" alt="Lucas Lima`s github stats" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=dracula"/>
 </section>
     
  ## ✉️ Contato / Contact

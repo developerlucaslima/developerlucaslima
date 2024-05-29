@@ -39,24 +39,26 @@
 
  </section>
 
-## 🌱 Aprendendo / Learning
+## 🌱 Aprimorando / Improving
 
 <section align='center'><br>
  
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 </section>
 
 ## 📊 Status
 
 <section align='center'>
-<a href="https://github.com/developerlucaslima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developerlucaslima&theme=tokyonight&hide_border=true)" alt="Lucas Lima`s github stats" /></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/developerlucaslima"><img height='190em' src="https://github-readme-streak-stats.herokuapp.com/?user=developerlucaslima&theme=tokyonight&hide_border=true)" alt="Lucas Lima`s github stats" /></a>
+<span><a href="https://github.com/developerlucaslima?tab=repositories"><img height='190em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=tokyonight" alt="Lucas Lima`s github stats"/></a></span>
 </section>
     
  ## ✉️ Contato / Contact
 
 <section align='center'>
 <a href='https://www.linkedin.com/in/developerlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://www.instagram.com/devlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Instagram' src='https://img.shields.io/badge/Instagram-e56969?style=for-the-badge&logo=instagram&logoColor=white'/></a>
 </section>

@@ -1,3 +1,5 @@
+## 💡 Sobre / About
+
 🇧🇷
 
 - ⚒️ Trabalhando como Desenvolvedor Web e Android Mobile na [Decklink](http://declink.com.br/).
@@ -10,7 +12,7 @@
 - 🧠 I'm studying Systems Analysis and Development at [Descomplica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/).
 - 💻 I study and delve into web and mobile development [Rocketseat](https://www.rocketseat.com.br/).
 
-## 📚 Habilidades / Skills
+## 🤹 Habilidades / Skills
 
 <section align='left'><br>
  
@@ -48,6 +50,13 @@
 
 </section>
 
+ ## 🤝 Contato / Contact
+
+<section align='center'>
+<a href='https://www.linkedin.com/in/developerlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://www.instagram.com/devlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Instagram' src='https://img.shields.io/badge/Instagram-e56969?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+</section>
+
 ## 📊 Status
 
 <section align='center'>
@@ -55,9 +64,4 @@
 <img height='190em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=tokyonight" alt="Lucas Lima`s github stats"/>
 </section>
     
- ## ✉️ Contato / Contact
 
-<section align='center'>
-<a href='https://www.linkedin.com/in/developerlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a href='https://www.instagram.com/devlucaslima/' target='_blank' ><img align='center' alt='Lucas Lima Instagram' src='https://img.shields.io/badge/Instagram-e56969?style=for-the-badge&logo=instagram&logoColor=white'/></a>
-</section>

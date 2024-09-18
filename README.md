@@ -57,7 +57,7 @@
 ## 📊 Status
 
 <section align='center'>
-<img height='190em' src="https://github-readme-streak-stats.herokuapp.com/?user=developerlucaslima&theme=tokyonight&hide_border=true)" alt="Lucas Lima`s github stats" />
+<!-- <img height='190em' src="https://github-readme-streak-stats.herokuapp.com/?user=developerlucaslima&theme=tokyonight&hide_border=true)" alt="Lucas Lima`s github stats" /> -->
 <img height='190em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerlucaslima&layout=compact&langs_count=7&theme=tokyonight" alt="Lucas Lima`s github stats"/>
 </section>
     

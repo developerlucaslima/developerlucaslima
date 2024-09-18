@@ -2,13 +2,13 @@
 
 🇧🇷
 
-- ⚒️ Trabalhando como Desenvolvedor Web e Android Mobile na [Decklink](http://declink.com.br/).
+<!-- - ⚒️ Trabalhando como Desenvolvedor Web e Android Mobile na [Decklink](http://declink.com.br/). -->
 - 🧠 Estou cursando Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/).
 - 💻 Estudo e me aprofundo com desenvolvimento web e mobile [Rocketseat](https://www.rocketseat.com.br/).
 
 🇺🇸
 
-- ⚒️ Working as a Web and Android Mobile Developer at [Decklink](http://declink.com.br/).
+<!-- - ⚒️ Working as a Web and Android Mobile Developer at [Decklink](http://declink.com.br/). -->
 - 🧠 I'm studying Systems Analysis and Development at [Descomplica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/).
 - 💻 I study and delve into web and mobile development [Rocketseat](https://www.rocketseat.com.br/).
 
